@@ -224,6 +224,11 @@ C언어에서의 상수는
 
 **변수**는 컴퓨터의 메모리를 이용해 값을 기억한다.
 
+<center>
+    <img src="https://thebook.io/img/006989/p050_2.png" width="" height="">
+</center>
+
+
 변수라는 상자 안에 값을 넣듯이 특정한 값을 메모리에 기억시킬 수 있다.
 
 <br>
