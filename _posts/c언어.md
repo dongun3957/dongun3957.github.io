@@ -225,7 +225,7 @@ C언어에서의 상수는
 **변수**는 컴퓨터의 메모리를 이용해 값을 기억한다.
 
 <center>
-    <img src="https://thebook.io/img/006989/p050_2.png" width="" height="">
+    <img src="https://acaroom.net/sites/default/files/uploads/datatypec.png" width="" height="">
 </center>
 
 
