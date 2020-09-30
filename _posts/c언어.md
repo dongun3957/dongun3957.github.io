@@ -206,17 +206,17 @@ C언어에서의 상수는
 
 | 종류 | 이름 | 크기 | 기억 할 수 있는 값의 범위 |
 | :--- | :--- | :--- | :--- |  
-| 문자형 | char | 1 바이트 | 영문숫자 1문자 &nbsp; - &nbsp; -128 ~ 127 |
-|  | unsigned char | 1 바이트 | 영문숫자 1문자 &nbsp; - &nbsp; 0 ~ 255 |
-| 정수형 | short int | 2 바이트 | 정수 -32768 &nbsp; ~ &nbsp; 32767 |
-|  | unsigned short int | 2 바이트 | 정수 &nbsp; -  &nbsp; 0 ~ 65535 |
-|  | int | 4 바이트 | 정수 &nbsp; - &nbsp; 0 ~ -2147483648 |
-|  | unsigned int | 4 바이트 | 정수 &nbsp; - &nbsp; 0 ~ 4294967295 |
-|  | long int | 4 바이트 | 장정수 &nbsp; - &nbsp; -2147483648 ~ 2147483647 |
-|  | unsigned long int | 4 바이트 | 장정수 &nbsp; - &nbsp; 0 ~ 4294967295 |
-| 부동소수점형 | float | 4 바이트 | 단정밀도 부동소수점수 &nbsp; - &nbsp; 3.4E-38 ~ 3.4E+38 |
-|  | double | 8 바이트 | 배정밀도 부동소수점수 &nbsp; - &nbsp; 1.7E-308 ~ 1.7E+308 |
-|  | long double | 8 바이트 | 확장 배정밀도 부동 소수점수 &nbsp; - &nbsp; 1.7E-308 ~ 1.7E+308 |
+| 문자형 | char | 1 바이트 | 영문숫자 1문자 &nbsp; ㅡ &nbsp; -128 ~ 127 |
+|  | unsigned char | 1 바이트 | 영문숫자 1문자 &nbsp; ㅡ &nbsp; 0 ~ 255 |
+| 정수형 | short int | 2 바이트 | 정수 &nbsp; ㅡ &nbsp; 32768 ~ 32767 |
+|  | unsigned short int | 2 바이트 | 정수 &nbsp; ㅡ  &nbsp; 0 ~ 65535 |
+|  | int | 4 바이트 | 정수 &nbsp; ㅡ &nbsp; 0 ~ -2147483648 |
+|  | unsigned int | 4 바이트 | 정수 &nbsp; ㅡ &nbsp; 0 ~ 4294967295 |
+|  | long int | 4 바이트 | 장정수 &nbsp; ㅡ &nbsp; -2147483648 ~ 2147483647 |
+|  | unsigned long int | 4 바이트 | 장정수 &nbsp; ㅡ &nbsp; 0 ~ 4294967295 |
+| 부동소수점형 | float | 4 바이트 | 단정밀도 부동소수점수 &nbsp; ㅡ &nbsp; 3.4E-38 ~ 3.4E+38 |
+|  | double | 8 바이트 | 배정밀도 부동소수점수 &nbsp; ㅡ &nbsp; 1.7E-308 ~ 1.7E+308 |
+|  | long double | 8 바이트 | 확장 배정밀도 부동 소수점수 &nbsp;  &nbsp; 1.7E-308 ~ 1.7E+308 |
 
 ### 비트와 바이트
 
