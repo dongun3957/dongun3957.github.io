@@ -209,8 +209,8 @@ C언어에서의 상수는
 | 문자형 | char | 1 바이트 | 영문숫자 1문자 &nbsp; - &nbsp; -128 ~ 127 |
 |  | unsigned char | 1 바이트 | 영문숫자 1문자 &nbsp; - &nbsp; 0 ~ 255 |
 | 정수형 | short int | 2 바이트 | 정수 -32768 &nbsp; ~ &nbsp; 32767 |
-|  | unsigned short int | 2 바이트 | 정수 0 &nbsp; ~ &nbsp; 65535 |
-|  | int | 4 바이트 | 정수 0 &nbsp; ~ &nbsp; -2147483648 |
+|  | unsigned short int | 2 바이트 | 정수 &nbsp; -  &nbsp; 0 ~ 65535 |
+|  | int | 4 바이트 | 정수 &nbsp; - &nbsp; 0 ~ -2147483648 |
 |  | unsigned int | 4 바이트 | 정수 &nbsp; - &nbsp; 0 ~ 4294967295 |
 |  | long int | 4 바이트 | 장정수 &nbsp; - &nbsp; -2147483648 ~ 2147483647 |
 |  | unsigned long int | 4 바이트 | 장정수 &nbsp; - &nbsp; 0 ~ 4294967295 |
